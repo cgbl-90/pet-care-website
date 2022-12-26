@@ -7,5 +7,5 @@ Pages:
 - Our team
 - Contact us
 
-Wireframe designed in Miro
+Wireframe
 ![wireframe](src/wireframe.jpg)
